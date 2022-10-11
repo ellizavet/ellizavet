@@ -16,7 +16,7 @@ Header
 
 ### Follow Me
 [![Telegram][def7]](https://t.me/e_llizavet)
-![Instagram][def8]
+[![Instagram][def8]](https:||www.instagram.com/e_llizavet)
 
 [def]: https://img.shields.io/badge/-JIRA-090909?style=for-the-badge&logo=jira&logoColor=024EC6
 [def2]: https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=github
