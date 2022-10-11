@@ -14,6 +14,7 @@ Header
 ![Azure DevOps][def6]
 
 ### Testing Documentation
+[Bug reports](https://drive.google.com/file/d/10iJubec1iNbxcNj6mdZQ5ISrjXGXDZv_/view?usp=sharing)
 
 ### Follow Me
 [![Telegram][def7]](https://t.me/e_llizavet)
