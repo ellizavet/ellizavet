@@ -15,7 +15,7 @@ Header
 ### Testing Documentation
 
 ### Follow Me
-![Telegram][def7](https://t.me/e_llizavet)
+[![Telegram][def7](https://t.me/e_llizavet)]
 ![Instagram][def8]
 
 [def]: https://img.shields.io/badge/-JIRA-090909?style=for-the-badge&logo=jira&logoColor=024EC6
