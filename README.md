@@ -1,8 +1,8 @@
 Header
 
-About me
+## I am a beginner manual QA engineer
 
-My CV
+### My CV
 
 ### Languages and Tools
 ![JIRA][def]
@@ -12,10 +12,11 @@ My CV
 ![Postman][def5]
 ![Azure DevOps][def6]
 
-Testing Documentation
+### Testing Documentation
 
-Follow Me
-
+### Follow Me
+![Telegram][def7][]
+![Instagram][def8]
 
 [def]: https://img.shields.io/badge/-JIRA-090909?style=for-the-badge&logo=jira&logoColor=024EC6
 [def2]: https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=github
@@ -23,3 +24,5 @@ Follow Me
 [def4]: https://img.shields.io/badge/-DevTools-090909?style=for-the-badge&logo=devtools
 [def5]: https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman
 [def6]: https://img.shields.io/badge/-AzureDevOps-090909?style=for-the-badge&logo=azuredevops&logoColor=0074CD
+[def7]: https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram
+[def8]: https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram
