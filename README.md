@@ -15,7 +15,7 @@ Header
 ### Testing Documentation
 
 ### Follow Me
-![Telegram][def7][]
+![Telegram][def7](https://t.me/e_llizavet)
 ![Instagram][def8]
 
 [def]: https://img.shields.io/badge/-JIRA-090909?style=for-the-badge&logo=jira&logoColor=024EC6
@@ -26,3 +26,5 @@ Header
 [def6]: https://img.shields.io/badge/-AzureDevOps-090909?style=for-the-badge&logo=azuredevops&logoColor=0074CD
 [def7]: https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram
 [def8]: https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram
+[def9]: https://
+[def10]: https://t.me//e_llizavet
