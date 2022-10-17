@@ -16,6 +16,9 @@
 ### Testing Documentation
 [Bug-reports](https://drive.google.com/file/d/10iJubec1iNbxcNj6mdZQ5ISrjXGXDZv_/view?usp=sharing)
 
+[Bug-reports_2](https://drive.google.com/drive/folders/1Ezu7re_dnyigshXclTjUAD40vu09nGRu?usp=sharing)
+
+SQL queries
 
 ### Follow Me
 [![Telegram][def7]](https://t.me/e_llizavet)
