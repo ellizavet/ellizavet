@@ -3,7 +3,7 @@
 ## I am a beginner manual QA engineer
 
 ### My CV
-[Link to my CV](https://drive.google.com/file/d/11VJ5VFX3f9yu6TpGXdYUvyZyVMYNA8W7/view?usp=sharing)
+[Link to my CV](https://drive.google.com/file/d/1n8ADzdawYX1BJKIfeBRsTMET1RYfkhpY/view?usp=sharing)
 
 ### Languages and Tools
 ![JIRA][def]
