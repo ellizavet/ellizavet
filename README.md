@@ -18,7 +18,7 @@
 
 [Bug-reports_2](https://drive.google.com/drive/folders/1Ezu7re_dnyigshXclTjUAD40vu09nGRu?usp=sharing)
 
-[Test Cases_Eng](https://drive.google.com/drive/folders/1Ezu7re_dnyigshXclTjUAD40vu09nGRu?usp=sharing)
+[Test Cases_Eng](https://drive.google.com/drive/folders/1lvMR_jjmtx2FGM5xZ1tHhucn3nEqLSwY?usp=sharing)
 
 [Test_Cases_Rus](https://drive.google.com/drive/folders/137cwmc-IP31xnRFMRCqUBWXjGoHsMqdH?usp=sharing)
 
